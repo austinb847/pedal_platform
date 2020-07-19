@@ -12,7 +12,7 @@ The Pedal Platform is a subscription based ecommerce site for guitar players and
 
 * As a user I want to see a welcome page that describes the business and how it works
 * As a user I want to click on featured pedals and see a list of recent Pedals available based on subscription type
-* As a user I want to click on a Pedal and see more information about it
+* As a user I want to click on a featured Pedal and see more information about it
 * As a user I want to be able to login and sign up for the service
 * As a user I want to be able to fill out a form for delievery and billing information once I sign up
 * As a logged in user I want to be able to see a list of all available pedals 
